@@ -4,6 +4,7 @@ from django.utils import timezone
 # Create your models here.
 # model들은 Model을 inheritance한다.
 # model마다 class 변수는 모델에서 데이터베이스 필드를 나타낸다.
+
 class Question(models.Model):
     question_text = models.CharField(max_length=200)
     pub_date = models.DateTimeField("date published")
