@@ -4,9 +4,12 @@ Django backend api
 ## Architectures
 * Login api 
 * Token api
-* Todos api
+* RemoveTodo api
+* AddTodo api
 
 ## Libraries
 * Simple-jwt
 * environ
 * django-rest-framework
+
+
