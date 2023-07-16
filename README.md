@@ -1,11 +1,11 @@
 # Django_api
-Django backend api
+Django backend api exercise
 
-## Architectures
-* Login api 
-* Token api
-* RemoveTodo api
-* AddTodo api
+## Learning
+* CRUD
+* Authentication
+* Authorization
+* Paging
 
 ## Libraries
 * Simple-jwt
